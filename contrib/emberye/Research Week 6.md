@@ -1,4 +1,4 @@
-#Evaluating Human Capital--finding databases on continuing vocational training (CVT)
+# Evaluating Human Capital--finding databases on continuing vocational training (CVT)
 
 In Abraham’s article, I found some indication of databases that could support using the cost approach to analyze human capital. National accounting experts working on measuring nonmarket output, such as government services, generally recommend using a quantity index to separate nominal spending changes into real output growth versus price changes (European Commission et al. 2009; UNECE 2016). For education, the main challenge lies in constructing a quantity index of real output that can be consistently tracked over time.
 
